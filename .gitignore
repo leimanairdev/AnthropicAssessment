@@ -10,3 +10,9 @@
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Exercise 2 - local python artifacts
+exercise-2-cicd/app/.venv/
+exercise-2-cicd/app/.pytest_cache/
+exercise-2-cicd/app/__pycache__/
+exercise-2-cicd/app/*.pyc
