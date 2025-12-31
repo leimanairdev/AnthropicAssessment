@@ -1,0 +1,12 @@
+# Terraform local working dir
+**/.terraform/*
+
+# Terraform state files
+**/*.tfstate
+**/*.tfstate.*
+*.tfplan
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
